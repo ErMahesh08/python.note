@@ -96,3 +96,13 @@
 # school = stdName + stdRollNo
 # school.extend(stdclass)
 # print(school)
+
+ #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< remove the intem from list >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+
+# stdName   = ["Chetan", "Yogesh", "Nilima", "Shivani", "Mayur","Pratiksha", "Lankesh", "Gayatri"]
+# stdRollNo = [1,2,3,4,5]
+# stdclass  = ["A" , "B"]
+# school = stdName + stdRollNo
+# school.extend(stdclass)
+
+# print(school)
